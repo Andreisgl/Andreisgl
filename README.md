@@ -42,7 +42,10 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andreisgl&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreisgl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
+### Stats and usage:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andreisgl&theme=dark&hide_border=true)](https://git.io/streak-stats)
