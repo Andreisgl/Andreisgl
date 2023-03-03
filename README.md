@@ -37,6 +37,7 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Arduino" alt="C++" width="40" height="40"/>&nbsp;
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" title="MicroPython" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andreisgl&theme=dark&hide_border=true)](https://git.io/streak-stats)
