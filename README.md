@@ -46,6 +46,19 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreisgl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### Programs:
+
+<ul>
+  <li>Fusion 360</li>
+
+</ul>
+<div>
+  <img src="https://www.nke360.com/wp-content/uploads/2020/03/fusion-360-icon-400px-social.png" title="Fusion 360" alt="Fusion 360" width="40" height="40"/>&nbsp;
+
+</div>
+
 ---
 ### Stats and usage:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andreisgl&theme=dark&hide_border=true)](https://git.io/streak-stats)
