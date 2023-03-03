@@ -1,15 +1,20 @@
-<div id="badges">
+<div id="header" align="center">
+
   <a href="https://www.linkedin.com/in/andrei-segal-8097a0259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"alt="LinkedIn badge">
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Andreisgl" alt="viewcounter">
 </div>
-<img src="https://komarev.com/ghpvc/?username=Andreisgl" alt="viewcounter">
+
 
 ---
 
 ### About me:
 Currently studying Information Systems at CEFET-NF. I develop code as a student and as a hobbyist.
 <p></p>
+
+---
 
 ### Ongoing projects:
 
@@ -20,9 +25,9 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
   <li>Small electronics projects with Arduino and the Raspberry Pi Pico</li>
 </ul>
 
- 
+---
 
-### Languages and tools:
+### Languages:
 <ul>
   <li>Python</li>
   <li>C++ for Arduino</li>
@@ -34,5 +39,4 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Arduino" alt="C++" width="40" height="40"/>&nbsp;
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" title="MicroPython" alt="Python" width="40" height="40"/>&nbsp;
-
 </div>
