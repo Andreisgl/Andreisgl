@@ -8,21 +8,31 @@
 ---
 
 ### About me:
-Currently studying Information Systems at CEFET-NF. I develop code as a student and as a hobbyist. Regarding my projects, I:
+Currently studying Information Systems at CEFET-NF. I develop code as a student and as a hobbyist.
 <p></p>
 
+### Ongoing projects:
+
 <ul>
-  <li>Develop tools for modding Ace Combat Zero, a Playstation 2 game</li>
-  <li>Model parts for 3D printing</li>
-  <li>Am designing my own 3D printer</li>
-  <li>Do small electronics projects with Arduino and the Raspberry Pi Pico</li>
-  <li>Python</li>
+  <li>Developing tools for modding Ace Combat Zero, a Playstation 2 game</li>
+  <li>Modeling parts for 3D printing</li>
+  <li>Designing my own 3D printer</li>
+  <li>Small electronics projects with Arduino and the Raspberry Pi Pico</li>
 </ul>
 
-My programming languages
+ 
+
+### Languages and tools:
 <ul>
   <li>Python</li>
-  <li>MicroPython</li>
   <li>C++ for Arduino</li>
-  
+  <li>MicroPython</li>
 </ul>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Arduino" alt="C++" width="40" height="40"/>&nbsp;
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" title="MicroPython" alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
