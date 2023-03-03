@@ -47,9 +47,9 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
 <p></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreisgl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreisgl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreisgl)](https://github.com/Andreisgl)
+
 ---
 ### Programs:
 
@@ -65,3 +65,5 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
 ---
 ### Stats and usage:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andreisgl&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreisgl&show_icons=true&theme=dark)](https://github.com/Andreisgl)
