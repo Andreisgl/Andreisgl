@@ -55,10 +55,12 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
 
 <ul>
   <li>Fusion 360</li>
+  <li>Ultimaker Cura</li>
 
 </ul>
 <div>
   <img src="https://www.nke360.com/wp-content/uploads/2020/03/fusion-360-icon-400px-social.png" title="Fusion 360" alt="Fusion 360" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/18035735/48554277-46064580-e8de-11e8-8c4c-b682081a2219.png" title="Ultimaker Cura" alt="Ultimaker Cura" width="40" height="40"/>&nbsp;
 
 </div>
 
