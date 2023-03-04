@@ -1,9 +1,10 @@
-<div id="header">
+<div id="header" align="center">
 
   <a href="https://www.linkedin.com/in/andrei-segal-8097a0259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"alt="LinkedIn badge">
   </a>
 
+  <p>
   <img src="https://komarev.com/ghpvc/?username=Andreisgl" alt="viewcounter">
 </div>
 
