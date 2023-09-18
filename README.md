@@ -23,6 +23,7 @@ Currently studying Information Systems at CEFET-NF. I develop code as a student 
 
 <ul>
   <li>Developing tools for modding Ace Combat Zero, a Playstation 2 game</li>
+  <li>Developing my own search engine from scratch, the "Longuinho Searcher"</li>
   <li>Modeling parts for 3D printing</li>
   <li>Designing my own 3D printer</li>
   <li>Small electronics projects with Arduino and the Raspberry Pi Pico</li>
