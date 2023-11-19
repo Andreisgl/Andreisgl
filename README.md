@@ -12,7 +12,7 @@
 ---
 
 ### About me:
-Currently studying Information Systems at CEFET-NF. I develop code as a student and as a hobbyist.
+Currently studying Animation Design, Information Systems dropout. I develop code as a hobbyist.
 
 
 <p></p>
