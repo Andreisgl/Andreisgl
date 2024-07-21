@@ -12,7 +12,7 @@
 ---
 
 ### About me:
-Currently studying Animation Design, Information Systems dropout. I develop code as a hobbyist.
+Currently studying System Analysis & Development. I develop code as a hobbyist.
 
 
 <p></p>
